@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sasra-straw
-- 👀 I’m interested in AI/ML and Backend Algorithms.
+- 👀 I’m interested in AI/ML, Backend, and Full-Stack.
 - 🌱 I’m currently learning Database Systems, Algorithms, and more!
 - 📫 You can reach out to me by my email skota28@illinos.edu
 - 😄 Pronouns: she/her
